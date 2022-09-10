@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Calendario </h1>
+<h1 align="center"> Calendário </h1>
 
 <p align="center">
 <a href="#sobre">Sobre</a>
